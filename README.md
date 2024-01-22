@@ -9,11 +9,17 @@ Here is an example of our Arabic text diacritization:
 <p align="center"><code>ذَهَبَ عَلِيٌ إلَى الْشَّاطِئِ → ذهب علي إلى الشاطئ</code></p>
 
 ## Models Architecture
+![baseline](https://github.com/markyasser/Arabic-Diacritic-Classifier/assets/82395903/1ca08ad9-d3c1-4289-b413-8415f3ff4980)
 
-[!image]("baseline.png") BaseLine Model
-[!image]("baseline.png") CBHG
+BaseLine Model
+
+![cbow model](https://github.com/markyasser/Arabic-Diacritic-Classifier/assets/82395903/dcd80b4d-d39f-4b89-b0cc-317162b0ab05)
+![cbow](https://github.com/markyasser/Arabic-Diacritic-Classifier/assets/82395903/e6453f25-84fd-4d00-9081-eb4c8294021f)
+
+CBHG
 
 ## Quick start
+
 
 1. Clone the repo on your local machine.
 2. Install the required libraries specified in `requirement.txt` (or simply upload the files on google drive and run them using google colab).
