@@ -12,6 +12,7 @@ Here is an example of our Arabic text diacritization:
 ![baseline](https://github.com/markyasser/Arabic-Diacritic-Classifier/assets/82395903/1ca08ad9-d3c1-4289-b413-8415f3ff4980)
 
 BaseLine Model
+<hr>
 
 ![cbow model](https://github.com/markyasser/Arabic-Diacritic-Classifier/assets/82395903/dcd80b4d-d39f-4b89-b0cc-317162b0ab05)
 ![cbow](https://github.com/markyasser/Arabic-Diacritic-Classifier/assets/82395903/e6453f25-84fd-4d00-9081-eb4c8294021f)
